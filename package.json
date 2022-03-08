@@ -1,0 +1,15 @@
+{
+  "name": "functional_javascript_kevin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kevin1547/functional_javascript_kevin.git",
+  "author": "kevin1547 <c110181143@nkust.edu.tw>",
+  "license": "MIT",
+  "scripts": {
+    "test": "functional-javascript-workshop"
+  },
+  "devDependencies": {
+    "functional-javascript-workshop": "^1.0.6",
+    "packagename": "^2.0.1"
+  }
+}
